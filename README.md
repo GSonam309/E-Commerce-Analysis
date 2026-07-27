@@ -1,5 +1,5 @@
 # Ecommerce Sales Analysis Dashboard
- Ecommerce Sales Analysis Dashboard is an interactive Business Intelligence project developed using Power BI and SQL Server Management Studio. The dashboard provides        comprehensive insights into sales performance, profitability, customer segments, product trends, and regional sales through interactive visualizations.
+ Ecommerce Sales Analysis Dashboard is an interactive Business Intelligence project developed using Power BI. The dashboard provides comprehensive insights into sales performance, profitability, customer segments, product trends, and regional sales through interactive visualizations.
 
 # Project Overview:
 This project analyzes ecommerce sales data to help businesses monitor their Year-to-Date (YTD) performance and make data-driven decisions. The dashboard provides insights into:
@@ -23,10 +23,10 @@ The objective is to transform raw sales data into meaningful business insights t
 
 #  Tools & Technologies:
 - Power BI Desktop– Dashboard Development & Visualization
-- Microsoft SQL Server (SSMS)– Data Storage & Querying
+- Microsoft SQL Server (SSMS)– Data Storage
 - Power Query– Data Cleaning & Transformation
 - DAX (Data Analysis Expressions)– KPI Calculations & Measures
-- SQL– Data Extraction and Processing
+
 
 # Ecommerce Sales Dashboard
 ![Ecommerce Sales Dashboard ](https://github.com/GSonam309/E-Commerce-Analysis-Dashboard/blob/main/Screenshot%202026-07-26%20125243.png)
